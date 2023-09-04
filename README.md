@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-4-atom&label=Profile%20views&color=0e75b6&style=flat" alt="a-4-atom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-4-atom" alt="a-4-atom" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/a_4_atom" target="blank"><img src="https://img.shields.io/twitter/follow/a_4_atom?logo=twitter&style=for-the-badge" alt="a_4_atom" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](https://www.vikaschauhan.live/)
