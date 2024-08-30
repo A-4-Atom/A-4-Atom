@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Testing with Jest and some backend stuff.**
 
-- 👨‍💻 All of my projects are available at [https://www.vikaschauhan.live/](https://vikaschauhan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://vikaschauhan.vercel.app/](https://vikaschauhan.vercel.app/)
 
 - 💬 Ask me about **Next.js, React, framer-motion, Sanity CMS**
 
