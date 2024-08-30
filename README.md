@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/a_4_atom" target="blank"><img src="https://img.shields.io/twitter/follow/a_4_atom?logo=twitter&style=for-the-badge" alt="a_4_atom" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://www.vikaschauhan.live/)
+- 🔭 I’m currently working on [My Portfolio](https://vikaschauhan.vercel.app/)
 
 - 🌱 I’m currently learning **Testing with Jest and some backend stuff.**
 
-- 👨‍💻 All of my projects are available at [https://www.vikaschauhan.live/](https://www.vikaschauhan.live/)
+- 👨‍💻 All of my projects are available at [https://www.vikaschauhan.live/](https://vikaschauhan.vercel.app/)
 
 - 💬 Ask me about **Next.js, React, framer-motion, Sanity CMS**
 
