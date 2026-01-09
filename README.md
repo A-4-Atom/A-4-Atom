@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **vikaschauhanbca009@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UcrpCaZagYpq3QJrMmkUOlt_rjZL-BoV/view?usp=sharing](https://drive.google.com/file/d/1UcrpCaZagYpq3QJrMmkUOlt_rjZL-BoV/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UcrpCaZagYpq3QJrMmkUOlt_rjZL-BoV/view?usp=sharing](https://drive.google.com/file/d/1DEnZ78ZlN_VcRvGklx5kxVnHd8aCTXwU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
